@@ -1,4 +1,4 @@
-# video
+# Video - Module for Xoops
 
 [![Build Status](https://scrutinizer-ci.com/g/txmodxoops/video/badges/build.png?b=master)](https://scrutinizer-ci.com/g/txmodxoops/video/build-status/master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/txmodxoops/video/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/txmodxoops/video/?branch=master)
